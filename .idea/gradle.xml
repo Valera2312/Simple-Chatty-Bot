@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Problems/Arithmetic average" />
+            <option value="$PROJECT_DIR$/Problems/Boys in a sport class" />
+            <option value="$PROJECT_DIR$/Problems/Bus tour" />
+            <option value="$PROJECT_DIR$/Problems/Check the value" />
+            <option value="$PROJECT_DIR$/Problems/Collatz conjecture" />
+            <option value="$PROJECT_DIR$/Problems/Decrement all" />
+            <option value="$PROJECT_DIR$/Problems/Even or odd" />
+            <option value="$PROJECT_DIR$/Problems/Groundhogs at a party" />
+            <option value="$PROJECT_DIR$/Problems/Healthy sleep" />
+            <option value="$PROJECT_DIR$/Problems/Maximum element divisible by four" />
+            <option value="$PROJECT_DIR$/Problems/Next even number" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Queens" />
+            <option value="$PROJECT_DIR$/Problems/Reversing input numbers" />
+            <option value="$PROJECT_DIR$/Problems/Snail" />
+            <option value="$PROJECT_DIR$/Problems/Symmetrical number" />
+            <option value="$PROJECT_DIR$/Problems/The largest element of a sequence" />
+            <option value="$PROJECT_DIR$/Problems/The product of numbers from a to b" />
+            <option value="$PROJECT_DIR$/Problems/The roots of an equation" />
+            <option value="$PROJECT_DIR$/Problems/The sequence" />
+            <option value="$PROJECT_DIR$/Problems/The sum of digits" />
+            <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

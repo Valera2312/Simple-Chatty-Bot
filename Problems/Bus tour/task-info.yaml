@@ -1,0 +1,24 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.util.*;
+
+    public class Main {
+        public static void main(String[] args) {
+            // write your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/3820#comment
+status: Failed
+feedback:
+  message: "Failed test #1 of 5. Runtime error\n\nThis is a sample test from the problem\
+    \ statement!\n\nTest input:\n234 8\n465 453 981 463 1235 871 475 981\nCorrect\
+    \ output:\nWill not crash\n\nYour code output:\n\n\nError:\nException in thread\
+    \ \"main\" java.util.NoSuchElementException\n\tat java.base/java.util.Scanner.throwFor(Scanner.java:937)\n\
+    \tat java.base/java.util.Scanner.next(Scanner.java:1594)\n\tat java.base/java.util.Scanner.nextInt(Scanner.java:2258)\n\
+    \tat java.base/java.util.Scanner.nextInt(Scanner.java:2212)\n\tat Main.main(Main.java:19)\n"
+  time: Tue, 05 Jan 2021 08:58:52 UTC
+record: -1
